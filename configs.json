@@ -1,0 +1,17 @@
+{
+	"config_bank": {
+		"notebook": "notebooks/data_explorer.ipynb",
+		"data_url": "https://raw.githubusercontent.com/andrewm4894/papermill_dev/master/data/bank-full.csv",
+		"output_label": "bank"
+	},
+	"config_adult": {
+		"notebook": "notebooks/data_explorer.ipynb",
+		"data_url": "https://raw.githubusercontent.com/andrewm4894/papermill_dev/master/data/adult.csv",
+		"output_label": "adult"
+	},
+	"config_titanic": {
+		"notebook": "notebooks/data_explorer.ipynb",
+		"data_url": "https://raw.githubusercontent.com/andrewm4894/papermill_dev/master/data/titanic.csv",
+		"output_label": "titanic"
+	}
+}
